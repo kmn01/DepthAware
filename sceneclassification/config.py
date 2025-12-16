@@ -1,0 +1,19 @@
+SEED = 42
+
+# Training
+BATCH_SIZE = 32
+LEARNING_RATE = 1e-3
+NUM_EPOCHS = 50
+WEIGHT_DECAY = 1e-4
+
+# Embedding dimensions
+IMAGE_EMB_DIM = 512
+DEPTH_EMB_DIM = 512
+TEXT_EMB_DIM = 512
+
+# Model
+HIDDEN_DIM = 512
+DROPOUT = 0.3
+
+# Device
+DEVICE = "mps"
