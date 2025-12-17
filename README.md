@@ -1,4 +1,5 @@
 # Multimodal Late Fusion for Depth-Aware Spatial Scene Understanding
+Kirthana Natarajan, Trisha Maturi
 
 ## Abstract
 
